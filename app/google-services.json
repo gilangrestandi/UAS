@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955828373456",
+    "firebase_url": "https://uasmobiles4gilangrestandi-default-rtdb.firebaseio.com",
+    "project_id": "uasmobiles4gilangrestandi",
+    "storage_bucket": "uasmobiles4gilangrestandi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955828373456:android:a37efec41926d6875f5bd5",
+        "android_client_info": {
+          "package_name": "com.example.uasmobiles4gilangrestandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955828373456-vg2i9bkkjuan02d1393nut7p23oth70n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQ_IDmpbwnVuoSDkBUddi_buqi8UphPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955828373456-vg2i9bkkjuan02d1393nut7p23oth70n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
